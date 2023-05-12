@@ -178,3 +178,5 @@ git remote add [remote][url] — добавить новый удаленный 
 Пока все
 
 Ссылки
+[  Инструкция  MD](https://paulradzkov.com/2014/markdown_cheatsheet "Я ссылка")
+[Инструкция GIT](https://habr.com/ru/companies/vk/articles/493816/ "я инструкция")
