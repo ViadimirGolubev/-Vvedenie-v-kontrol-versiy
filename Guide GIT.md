@@ -1,4 +1,4 @@
-# GUIDE GIT
+# GUIDE GIT(на несколько домашних заданий)
 
 ![Git  суть](Git.png)
  ***
