@@ -192,27 +192,24 @@ git remote add [remote][url] — добавить новый удаленный 
 **Сначала потребуется установить Git на свой компьютер.** 
 
 ### Установка в Linux
-Для дистрибутивов, похожих на Fedora, RHEL или CentOS, выполните команду *dnf*:
+Для дистрибутивов, похожих на Fedora, RHEL или CentOS, выполните команду dnf:
 
     
 > sudo dnf install git-all
 
 
-На Ubuntu и других Debian-подобных систем введите *apt*:
+На Ubuntu и других Debian-подобных систем введите apt:
 
-    
+
 > sudo apt install git
 
 
-Более подробные сведения можно получить по 
-[ссылке](https://git-scm.com/download/linux).
-
+Более подробные сведения можно получить по [ссылке](https://git-scm.com/download/linux.)
 
 ### Установка на Mac
-Один из способов установки — воспользоваться Xcode Command *Line Tools*. В терминале нужно ввести:
+Один из способов установки — воспользоваться Xcode Command Line Tools. В терминале нужно ввести:
 
-
-  
+   
 > git --version
 
 
